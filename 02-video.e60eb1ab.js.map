@@ -1,1 +1,0 @@
-{"mappings":"AAAA,MAAMA,EAAQC,SAASC,cAAc,UACrCC,QAAQC,IAAIJ","sources":["src/js/02-video.js"],"sourcesContent":["const video = document.querySelector('iframe');\nconsole.log(video);\n"],"names":["$c006019e0678fe87$var$video","document","querySelector","console","log"],"version":3,"file":"02-video.e60eb1ab.js.map"}
